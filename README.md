@@ -10,3 +10,5 @@ The Applications are:
 - Base layer containing the default WebMap
 - Layer containing all the active Volcanos of USA and their heights.
 - A layer containing the population of each country with different colors based on the population of that country.
+
+3. [Website Blocker](https://github.com/VivekKumarSingh07/Udemy_Python_Mega_Course_Applications/tree/master/Application%203:%20Website%20Blocker) This website blocker blocks the website for a specific period of time in the day. It reads and writes in hosts file in Windows and Linux OS the hosts_path needed to be changed if using on Windows. The program redirects to home ip address (127.0.0.1) if the website listed is opened.
